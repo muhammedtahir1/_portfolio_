@@ -264,7 +264,7 @@ export const DATA = {
       dates: "Oct 2023 - Feb 2024",
       active: true,
       description:
-        "Developed a complete full-stack e-commerce platform with user authentication, product catalog management, a shopping cart, and payment gateway integration to provide a seamless shopping experience.",
+        "Developed a complete full-stack e-commerce platform with user authentication, product catalog management, a shopping cart, and payment gateway integration.",
         // "Designed, developed and sold animated UI components for developers.",
       technologies: [
         "Next.js",
@@ -298,7 +298,7 @@ export const DATA = {
       dates: "March 2024 - May 2024",
       active: true,
       description:
-        "Built a price comparison tool of Swiggy and Zomato to show users which platform offers the best deals on food delivery. Implemented a clean and responsive UI, with user authentication to ensure accurate pricing information.",
+        "Built a price comparison tool of Swiggy and Zomato to show users which platform offers the best deals on food delivery.",
       technologies: [
         "Next.js",
         "Typescript",
